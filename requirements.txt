@@ -1,0 +1,10 @@
+tqdm
+xopen
+pydantic
+pytest
+wandb
+openai
+transformers
+torch
+rouge
+
